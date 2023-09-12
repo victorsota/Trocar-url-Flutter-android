@@ -1,0 +1,8 @@
+<manifest>
+    <application>
+        <activity>
+            ...
+        </activity>
+        <meta-data >
+    </application>
+</manifest>
